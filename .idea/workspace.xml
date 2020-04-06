@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4be50717-f5d4-425b-91c6-4e5a76d63181" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/lokendra/onlinebookstore/OnlineBookStoreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/in/lokendra/onlinebookstore/OnlineBookStoreApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+    </list>
+    <list id="1705554b-0e67-4eaa-9743-5b4d1a438b34" name="Required Chages" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1aAwSx8PbSB68qHIPYQsICfPaAQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\spring-boot\online-bookstore\onlinebookstore\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="OnlineBookStoreApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="in.lokendra.onlinebookstore.OnlineBookStoreApplication" />
+      <module name="onlinebookstore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="in.lokendra.onlinebookstore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OnlineBookStoreApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4be50717-f5d4-425b-91c6-4e5a76d63181" name="Default Changelist" comment="" />
+      <changelist id="1705554b-0e67-4eaa-9743-5b4d1a438b34" name="Required Chages" comment="" />
+      <created>1586191709711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586191709711</updated>
+    </task>
+    <task id="LOCAL-00001" summary="required commit">
+      <created>1586192858591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586192858591</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="required commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="required commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="378" y="0" key="CommitChangelistDialog2" timestamp="1586192857358">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="378" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1586192857358" />
+    <state x="92" y="92" width="1416" height="716" key="DiffContextDialog" timestamp="1586193548297">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="92" y="92" width="1416" height="716" key="DiffContextDialog/0.0.1600.900@0.0.1600.900" timestamp="1586193548297" />
+    <state width="1545" height="572" key="GridCell.Tab.0.bottom" timestamp="1586193974453">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="572" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1586193974453" />
+    <state width="1545" height="572" key="GridCell.Tab.0.center" timestamp="1586193974453">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="572" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1586193974453" />
+    <state width="1545" height="572" key="GridCell.Tab.0.left" timestamp="1586193974452">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="572" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1586193974452" />
+    <state width="1545" height="572" key="GridCell.Tab.0.right" timestamp="1586193974453">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="572" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1586193974453" />
+    <state x="643" y="357" key="VCS.ChangelistChooser" timestamp="1586192465649">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="643" y="357" key="VCS.ChangelistChooser/0.0.1600.900@0.0.1600.900" timestamp="1586192465649" />
+  </component>
+</project>
