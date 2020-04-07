@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4be50717-f5d4-425b-91c6-4e5a76d63181" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/lokendra/onlinebookstore/OnlineBookStoreApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/in/lokendra/onlinebookstore/OnlineBookStoreApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+    <list default="true" id="4be50717-f5d4-425b-91c6-4e5a76d63181" name="Default Changelist" comment="required commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/lokendra/onlinebookstore/config/RepositoryConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/lokendra/onlinebookstore/entity/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/lokendra/onlinebookstore/entity/BookCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/lokendra/onlinebookstore/repository/BookCategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/in/lokendra/onlinebookstore/repository/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="1705554b-0e67-4eaa-9743-5b4d1a438b34" name="Required Chages" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +20,23 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -41,7 +50,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -105,41 +115,54 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
     <MESSAGE value="required commit" />
     <option name="LAST_COMMIT_MESSAGE" value="required commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="0" key="CommitChangelistDialog2" timestamp="1586192857358">
+    <state x="378" y="0" key="CommitChangelistDialog2" timestamp="1586195202789">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="378" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1586192857358" />
+    <state x="378" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1586195202789" />
     <state x="92" y="92" width="1416" height="716" key="DiffContextDialog" timestamp="1586193548297">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="92" y="92" width="1416" height="716" key="DiffContextDialog/0.0.1600.900@0.0.1600.900" timestamp="1586193548297" />
-    <state width="1545" height="572" key="GridCell.Tab.0.bottom" timestamp="1586193974453">
+    <state x="529" y="134" key="FileChooserDialogImpl" timestamp="1586249043286">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1545" height="572" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1586193974453" />
-    <state width="1545" height="572" key="GridCell.Tab.0.center" timestamp="1586193974453">
+    <state x="529" y="134" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1586249043286" />
+    <state width="1545" height="263" key="GridCell.Tab.0.bottom" timestamp="1586253194423">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1545" height="572" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1586193974453" />
-    <state width="1545" height="572" key="GridCell.Tab.0.left" timestamp="1586193974452">
+    <state width="1545" height="263" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1586253194423" />
+    <state width="1545" height="263" key="GridCell.Tab.0.center" timestamp="1586253194422">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1545" height="572" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1586193974452" />
-    <state width="1545" height="572" key="GridCell.Tab.0.right" timestamp="1586193974453">
+    <state width="1545" height="263" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1586253194422" />
+    <state width="1545" height="263" key="GridCell.Tab.0.left" timestamp="1586253194422">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state width="1545" height="572" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1586193974453" />
+    <state width="1545" height="263" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1586253194422" />
+    <state width="1545" height="263" key="GridCell.Tab.0.right" timestamp="1586253194423">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1545" height="263" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1586253194423" />
+    <state x="195" y="8" key="SettingsEditor" timestamp="1586249060551">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="195" y="8" key="SettingsEditor/0.0.1600.900@0.0.1600.900" timestamp="1586249060551" />
     <state x="643" y="357" key="VCS.ChangelistChooser" timestamp="1586192465649">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
