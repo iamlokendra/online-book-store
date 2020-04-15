@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4be50717-f5d4-425b-91c6-4e5a76d63181" name="Default Changelist" comment="required commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/in/lokendra/onlinebookstore/repository/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/in/lokendra/onlinebookstore/repository/BookRepository.java" afterDir="false" />
-    </list>
+    <list default="true" id="4be50717-f5d4-425b-91c6-4e5a76d63181" name="Default Changelist" comment="required commit" />
     <list id="1705554b-0e67-4eaa-9743-5b4d1a438b34" name="Required Chages" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +33,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1aAwSx8PbSB68qHIPYQsICfPaAQ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -119,6 +118,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
@@ -126,10 +126,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="required commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="378" y="0" key="CommitChangelistDialog2" timestamp="1586977564910">
+    <state x="378" y="0" key="CommitChangelistDialog2" timestamp="1586977934291">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="378" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1586977564910" />
+    <state x="378" y="0" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1586977934291" />
     <state x="92" y="92" width="1416" height="716" key="DiffContextDialog" timestamp="1586193548297">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -162,6 +162,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="643" y="357" key="VCS.ChangelistChooser/0.0.1600.900@0.0.1600.900" timestamp="1586192465649" />
+    <state x="581" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586977918255">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="581" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.900@0.0.1600.900" timestamp="1586977918255" />
     <state x="70" y="0" key="new project wizard" timestamp="1586796377350">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
