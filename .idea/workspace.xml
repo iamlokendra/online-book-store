@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4be50717-f5d4-425b-91c6-4e5a76d63181" name="Default Changelist" comment="required commit" />
+    <list default="true" id="4be50717-f5d4-425b-91c6-4e5a76d63181" name="Default Changelist" comment="" />
     <list id="1705554b-0e67-4eaa-9743-5b4d1a438b34" name="Required Chages" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586192858591</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="required commit">
+      <created>1586977957480</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586977957480</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -126,6 +133,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="required commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="292" y="29" key="#Notifications" timestamp="1586978163317">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="292" y="29" key="#Notifications/0.0.1600.900@0.0.1600.900" timestamp="1586978163317" />
     <state x="378" y="0" key="CommitChangelistDialog2" timestamp="1586977956226">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
